@@ -16,5 +16,4 @@ Spring boot project enabled with Lombok. Uses OpenCSV third party library to wri
 The project needs the source and destination folders for the input.txt and output.csv
 - Edit the 'input.source' property to the location where the input.txt is located.
 - Edit the 'output.destination' property to the location where you would like the CSV file to be created.
-To run with maven command:
-mvn spring-boot:run
+- To run with maven command: mvn spring-boot:run
